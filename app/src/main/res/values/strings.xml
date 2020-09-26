@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">my1</string>
+    <string name="save">save</string>
+    <string name="name">Please enter the name</string>
+    <string name="id">Please enter the id</string>
+    <string name="show">show</string>
+    <string name="delete">delete</string>
+</resources>
